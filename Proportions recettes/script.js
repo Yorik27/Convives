@@ -9,7 +9,7 @@ function getInitConValue(){
 
 function getFinConValue(){
 finalConvives = document.getElementById("finConvives").value;
-let ok2= document.getElementById("ok1");
+let ok2= document.getElementById("ok2");
     ok2.style.visibility = "hidden";
 }
 
